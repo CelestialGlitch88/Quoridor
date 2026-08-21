@@ -4,6 +4,8 @@ A self-contained, single-file implementation of **Quoridor** — the abstract st
 
 No build step, no dependencies to install, no server required — it's one `.html` file. Open it in a browser and play.
 
+## Click here to Play -> https://celestialglitch88.github.io/Quoridor/
+
 ---
 
 ## Features
